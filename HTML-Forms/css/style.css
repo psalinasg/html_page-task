@@ -1,0 +1,8 @@
+body, 
+
+.form{
+    display:flexbox;
+    font-size: 10mm;
+    align-self:center; 
+    justify-content: space-evenly;  
+}
